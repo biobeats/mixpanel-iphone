@@ -776,6 +776,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Mixpanel",
 				);
+				MACH_O_TYPE = staticlib;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -795,6 +796,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Mixpanel",
 				);
+				MACH_O_TYPE = staticlib;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
